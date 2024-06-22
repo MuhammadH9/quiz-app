@@ -6,6 +6,15 @@
           box-sizing: border-box;
   font-family: 'Josefin Sans', sans-serif;
 }
+.hide {
+  
+  visibility: hidden;
+}
+#formContainer {
+  display: flexbox;
+  align-items: center;
+  justify-content: center;
+} 
 
 #Content {
   height: 100vh;
